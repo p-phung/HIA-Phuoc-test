@@ -61,15 +61,15 @@ env:
   #
   # The URL-part(s) to identify the region
   REGIONS: >-
-    Testan
+    Testan,
     Testia
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    Testan
+    Testan,
     Testia
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
-    1cnUkBcjyLjjkc32SWUYv1b7q1zuhKhsojwkWu1-Sib0
+    1cnUkBcjyLjjkc32SWUYv1b7q1zuhKhsojwkWu1-Sib0,
     1cnUkBcjyLjjkc32SWUYv1b7q1zuhKhsojwkWu1-Sib0
 
 # #############################################################################
