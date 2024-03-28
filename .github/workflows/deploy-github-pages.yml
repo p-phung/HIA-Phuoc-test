@@ -25,7 +25,7 @@ env:
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
   TXT_APP_NAME: 'Hello World!'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
-  TXT_APP_LOGO_URL: ''
+  TXT_APP_LOGO_URL: 'https://static.thenounproject.com/png/40726-200.png'
   # The first heading, (only) visible on the main-page
   TXT_MAIN_PAGE_HEADER: ''
   # The (optional) introduction text, (only) visible on the main-page.
@@ -61,10 +61,10 @@ env:
   #
   # The URL-part(s) to identify the region
   REGIONS: >-
-    info
+    Testan
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    Information
+    Testan
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
     1cnUkBcjyLjjkc32SWUYv1b7q1zuhKhsojwkWu1-Sib0
